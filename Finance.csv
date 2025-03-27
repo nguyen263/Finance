@@ -1,0 +1,23 @@
+CustomerName,TransactionID,Date,AccountType,TransactionType,Amount,BalanceAfter,BranchLocation,PortfolioID,AssetType,AssetName,PurchaseDate,PurchasePrice,CurrentPrice,Gain_or_Loss,PercentageChange,ID,Location,Latitude,Longitude
+"John Doe",TN007,2025-03-07,Checking,Transfer,800.00,4200.00,"New York",P001,Stock,AAPL,2025-01-10,150.00,160.00,10.00,6.67,1,"New York",40.712800,-74.006000
+"John Doe",TN003,2025-03-03,Checking,Withdrawal,500.00,5000.00,"New York",P001,Stock,AAPL,2025-01-10,150.00,160.00,10.00,6.67,1,"New York",40.712800,-74.006000
+"John Doe",TN001,2025-03-01,Checking,Deposit,1500.00,5500.00,"New York",P001,Stock,AAPL,2025-01-10,150.00,160.00,10.00,6.67,1,"New York",40.712800,-74.006000
+"Jane Doe",TN005,2025-03-05,Savings,Deposit,1200.00,5000.00,"Los Angeles",P002,Stock,TSLA,2025-02-15,200.00,180.00,-20.00,-10.00,2,"Los Angeles",34.052200,-118.243700
+"Jane Doe",TN002,2025-03-02,Savings,Withdrawal,200.00,3800.00,"Los Angeles",P002,Stock,TSLA,2025-02-15,200.00,180.00,-20.00,-10.00,2,"Los Angeles",34.052200,-118.243700
+"John Doe",TN007,2025-03-07,Checking,Transfer,800.00,4200.00,"New York",P003,Crypto,BTC,2025-03-01,40000.00,42500.00,2500.00,6.25,1,"New York",40.712800,-74.006000
+"John Doe",TN003,2025-03-03,Checking,Withdrawal,500.00,5000.00,"New York",P003,Crypto,BTC,2025-03-01,40000.00,42500.00,2500.00,6.25,1,"New York",40.712800,-74.006000
+"John Doe",TN001,2025-03-01,Checking,Deposit,1500.00,5500.00,"New York",P003,Crypto,BTC,2025-03-01,40000.00,42500.00,2500.00,6.25,1,"New York",40.712800,-74.006000
+"Jacob Wilson",TN009,2025-03-09,Investment,Transfer,1500.00,13500.00,Houston,P004,Bond,"US Treasury",2025-01-20,1000.00,1020.00,20.00,2.00,3,Houston,29.760400,-95.369800
+"Jacob Wilson",TN004,2025-03-04,Investment,Deposit,3000.00,15000.00,Houston,P004,Bond,"US Treasury",2025-01-20,1000.00,1020.00,20.00,2.00,3,Houston,29.760400,-95.369800
+"Jane Doe",TN005,2025-03-05,Savings,Deposit,1200.00,5000.00,"Los Angeles",P005,"Mutual Fund","Vanguard S&P",2025-03-05,100.00,105.00,5.00,5.00,2,"Los Angeles",34.052200,-118.243700
+"Jane Doe",TN002,2025-03-02,Savings,Withdrawal,200.00,3800.00,"Los Angeles",P005,"Mutual Fund","Vanguard S&P",2025-03-05,100.00,105.00,5.00,5.00,2,"Los Angeles",34.052200,-118.243700
+"Sarah Green",TN010,2025-03-10,Savings,Withdrawal,500.00,5500.00,Seattle,P006,Crypto,ETH,2025-02-25,2500.00,2700.00,200.00,8.00,4,Seattle,47.606200,-122.332100
+"Sarah Green",TN006,2025-03-06,Savings,Deposit,2000.00,6000.00,Seattle,P006,Crypto,ETH,2025-02-25,2500.00,2700.00,200.00,8.00,4,Seattle,47.606200,-122.332100
+"John Doe",TN007,2025-03-07,Checking,Transfer,800.00,4200.00,"New York",P007,Stock,AMZN,2025-03-08,3200.00,3150.00,-50.00,-1.56,1,"New York",40.712800,-74.006000
+"John Doe",TN003,2025-03-03,Checking,Withdrawal,500.00,5000.00,"New York",P007,Stock,AMZN,2025-03-08,3200.00,3150.00,-50.00,-1.56,1,"New York",40.712800,-74.006000
+"John Doe",TN001,2025-03-01,Checking,Deposit,1500.00,5500.00,"New York",P007,Stock,AMZN,2025-03-08,3200.00,3150.00,-50.00,-1.56,1,"New York",40.712800,-74.006000
+"Olivia King",TN008,2025-03-08,Checking,Withdrawal,150.00,3600.00,Atlanta,P008,ETF,QQQ,2025-01-30,350.00,375.00,25.00,7.14,5,Atlanta,33.749000,-84.388000
+"Jacob Wilson",TN009,2025-03-09,Investment,Transfer,1500.00,13500.00,Houston,P009,Bond,"Corporate B",2025-02-10,980.00,995.00,15.00,1.53,3,Houston,29.760400,-95.369800
+"Jacob Wilson",TN004,2025-03-04,Investment,Deposit,3000.00,15000.00,Houston,P009,Bond,"Corporate B",2025-02-10,980.00,995.00,15.00,1.53,3,Houston,29.760400,-95.369800
+"Sarah Green",TN010,2025-03-10,Savings,Withdrawal,500.00,5500.00,Seattle,P010,Crypto,DOGE,2025-03-12,0.08,0.08,-0.01,-6.25,4,Seattle,47.606200,-122.332100
+"Sarah Green",TN006,2025-03-06,Savings,Deposit,2000.00,6000.00,Seattle,P010,Crypto,DOGE,2025-03-12,0.08,0.08,-0.01,-6.25,4,Seattle,47.606200,-122.332100

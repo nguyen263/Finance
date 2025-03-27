@@ -1,0 +1,11 @@
+TransactionID,Date,CustomerName,AccountType,TransactionType,Amount,BalanceAfter,BranchLocation
+TN001,2025-03-01,"John Doe",Checking,Deposit,1500.00,5500.00,"New York"
+TN002,2025-03-02,"Jane Doe",Savings,Withdrawal,200.00,3800.00,"Los Angeles"
+TN003,2025-03-03,"John Doe",Checking,Withdrawal,500.00,5000.00,"New York"
+TN004,2025-03-04,"Jacob Wilson",Investment,Deposit,3000.00,15000.00,Houston
+TN005,2025-03-05,"Jane Doe",Savings,Deposit,1200.00,5000.00,"Los Angeles"
+TN006,2025-03-06,"Sarah Green",Savings,Deposit,2000.00,6000.00,Seattle
+TN007,2025-03-07,"John Doe",Checking,Transfer,800.00,4200.00,"New York"
+TN008,2025-03-08,"Olivia King",Checking,Withdrawal,150.00,3600.00,Atlanta
+TN009,2025-03-09,"Jacob Wilson",Investment,Transfer,1500.00,13500.00,Houston
+TN010,2025-03-10,"Sarah Green",Savings,Withdrawal,500.00,5500.00,Seattle
